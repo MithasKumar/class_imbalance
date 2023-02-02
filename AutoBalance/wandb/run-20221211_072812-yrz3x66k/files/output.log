@@ -1,0 +1,31 @@
+<__main__.YAML object at 0x7f762e2b59d0>
+Penalty used for optimal threshold selection = 0.1
+Using Random Seed ==> 1158879967
+No. of Features (Source Data) = 19
+No. of Set-point Parameters (Source Data) = 49
+No. of Features (Target Data) = 16
+No. of Set-point Parameters (Target Data) = 150
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/pandas/compat/_optional.py", line 141, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 973, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'pyarrow'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "loss_search.py", line 94, in <module>
+    global_configs, Encoder_src, model = get_models(tvarit_args, model_type = args['model_type'])
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/wheel_exp_main.py", line 250, in get_models
+    global_configs = get_tvarit_raw(args)
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/raw_tvarit.py", line 304, in get_tvarit_raw
+    global_configs = data_processing.get_raw_data_df(configs=global_configs)  # Adding Raw Data's Dataframes
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/train_utils/data_processing.py", line 86, in get_raw_data_df
+    src_train_df_sr = pd.read_feather(configs['Source_train_data_path'])
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/pandas/io/feather_format.py", line 125, in read_feather
+    import_optional_dependency("pyarrow")
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/pandas/compat/_optional.py", line 144, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'pyarrow'.  Use pip or conda to install pyarrow.

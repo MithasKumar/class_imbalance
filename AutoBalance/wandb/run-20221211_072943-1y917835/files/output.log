@@ -1,0 +1,602 @@
+<__main__.YAML object at 0x7f26b2064ac0>
+Penalty used for optimal threshold selection = 0.1
+Using Random Seed ==> 1878681999
+No. of Features (Source Data) = 19
+No. of Set-point Parameters (Source Data) = 49
+No. of Features (Target Data) = 16
+No. of Set-point Parameters (Target Data) = 150
+Making Source Train Loader -->
+Number of 0s present in the dataset = 2756
+Number of 1s present in the dataset = 111
+Number of 0 psuedo labels present in the dataset = 749
+Number of 1 psuedo labels present in the dataset = 735
+Number of 2 psuedo labels present in the dataset = 684
+Number of 3 psuedo labels present in the dataset = 699
+Making Source Eval Loader -->
+Number of 0s present in the dataset = 671
+Number of 1s present in the dataset = 46
+Number of 0 psuedo labels present in the dataset = 178
+Number of 1 psuedo labels present in the dataset = 178
+Number of 2 psuedo labels present in the dataset = 173
+Number of 3 psuedo labels present in the dataset = 188
+Making Source Test Loader -->
+Number of 0s present in the dataset = 669
+Number of 1s present in the dataset = 37
+Number of 0 psuedo labels present in the dataset = 193
+Number of 1 psuedo labels present in the dataset = 168
+Number of 2 psuedo labels present in the dataset = 186
+Number of 3 psuedo labels present in the dataset = 159
+Making Target Train Loader -->
+Number of 0s present in the dataset = 1014
+Number of 1s present in the dataset = 90
+Making Target Eval Loader -->
+Number of 0s present in the dataset = 678
+Number of 1s present in the dataset = 60
+Making Target Test Loader -->
+Number of 0s present in the dataset = 821
+Number of 1s present in the dataset = 21
+--------------------------------------------------
+Total number of parameters: 5.79e+04
+w_train: tensor([1., 1.], device='cuda:0')
+w_val: tensor([0.0402, 0.9992], device='cuda:0')
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+train data size 2867 90
+ test_dataset: Epoch 0 :  Loss = 0.7816340930063393   ACC = 5.240793153643608 Balanced ACC = 50.0
+ Class wise = [  0. 100.]
+AUROC Value for  test_dataset 0.7690784955358947
+AUROC Value for  val_dataset 0.7808136004857316
+AUROC Value for  train_dataset 0.7340528118830005
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  2e-05
+Epoch 0 :  Loss = 0.7556688615283693   ACC = 3.8716428322288103
+ test_dataset: Epoch 1 :  Loss = 0.7730837729429726   ACC = 5.240793153643608 Balanced ACC = 50.0
+ Class wise = [  0. 100.]
+AUROC Value for  test_dataset 0.7727346180260979
+AUROC Value for  val_dataset 0.7768394325771375
+AUROC Value for  train_dataset 0.7278207089527845
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  4e-05
+Epoch 1 :  Loss = 0.7463944611293246   ACC = 3.8716428322288103
+ test_dataset: Epoch 2 :  Loss = 0.754742795617317   ACC = 5.240793153643608 Balanced ACC = 50.0
+ Class wise = [  0. 100.]
+AUROC Value for  test_dataset 0.7614228578354139
+AUROC Value for  val_dataset 0.7694430645250316
+AUROC Value for  train_dataset 0.7168536460989291
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  6e-05
+Epoch 2 :  Loss = 0.7303732267272651   ACC = 5.406348099058249
+ test_dataset: Epoch 3 :  Loss = 0.7288991455991275   ACC = 5.240793153643608 Balanced ACC = 50.0
+ Class wise = [  0. 100.]
+AUROC Value for  test_dataset 0.7520098573910234
+AUROC Value for  val_dataset 0.7662692498758072
+AUROC Value for  train_dataset 0.6993635507786451
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  8e-05
+Epoch 3 :  Loss = 0.7082234199220893   ACC = 22.009068712940355
+ test_dataset: Epoch 4 :  Loss = 0.6967598730038651   ACC = 5.240793153643608 Balanced ACC = 50.0
+ Class wise = [  0. 100.]
+AUROC Value for  test_dataset 0.7411828869227972
+AUROC Value for  val_dataset 0.7562786333278138
+AUROC Value for  train_dataset 0.6808078034493128
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 4 :  Loss = 0.6817405483304394   ACC = 72.8636205092431
+ test_dataset: Epoch 5 :  Loss = 0.6589361086445558   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.6564860824950511
+AUROC Value for  val_dataset 0.7169785284539383
+AUROC Value for  train_dataset 0.6561310948103402
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 5 :  Loss = 0.6541430949541098   ACC = 95.4307638646669
+ test_dataset: Epoch 6 :  Loss = 0.6239202542615679   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.6629903446046944
+AUROC Value for  val_dataset 0.6896837224706076
+AUROC Value for  train_dataset 0.6430686855215157
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 6 :  Loss = 0.6295757604094386   ACC = 96.1283571677712
+ test_dataset: Epoch 7 :  Loss = 0.5919131562324826   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.651314992122167
+AUROC Value for  val_dataset 0.6437048076392339
+AUROC Value for  train_dataset 0.6284862511277605
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 7 :  Loss = 0.6054000711249773   ACC = 96.1283571677712
+ test_dataset: Epoch 8 :  Loss = 0.5620295592813249   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.5478729850927161
+AUROC Value for  val_dataset 0.5282607495722249
+AUROC Value for  train_dataset 0.5640502621634697
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 8 :  Loss = 0.5836403303375883   ACC = 96.1283571677712
+ test_dataset: Epoch 9 :  Loss = 0.5346195582965279   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.4029410576495778
+AUROC Value for  val_dataset 0.44888778495335874
+AUROC Value for  train_dataset 0.4881650518442971
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 9 :  Loss = 0.5614997948924964   ACC = 96.1283571677712
+ test_dataset: Epoch 10 :  Loss = 0.5090239522477386   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.3643194764270997
+AUROC Value for  val_dataset 0.3941877794336811
+AUROC Value for  train_dataset 0.4237421383647799
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 10 :  Loss = 0.5410972849641646   ACC = 96.1283571677712
+ test_dataset: Epoch 11 :  Loss = 0.4851373535377783   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.3693289702258312
+AUROC Value for  val_dataset 0.36294640393001043
+AUROC Value for  train_dataset 0.40003301559905335
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 11 :  Loss = 0.5224354496017166   ACC = 96.1283571677712
+ test_dataset: Epoch 12 :  Loss = 0.4627669767685045   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.3974669737001576
+AUROC Value for  val_dataset 0.346856543577855
+AUROC Value for  train_dataset 0.3740160697707867
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 12 :  Loss = 0.5038361645426782   ACC = 96.1283571677712
+ test_dataset: Epoch 13 :  Loss = 0.44177331963274363   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.4493394740031511
+AUROC Value for  val_dataset 0.3402881271733731
+AUROC Value for  train_dataset 0.3680569175852194
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 13 :  Loss = 0.48517032755057404   ACC = 96.1283571677712
+ test_dataset: Epoch 14 :  Loss = 0.4220604184835558   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.43429079303518764
+AUROC Value for  val_dataset 0.32350830711486445
+AUROC Value for  train_dataset 0.3723849030452804
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 14 :  Loss = 0.46763129155520244   ACC = 96.1283571677712
+ test_dataset: Epoch 15 :  Loss = 0.40365334864040947   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.3957096109562477
+AUROC Value for  val_dataset 0.30479659987856705
+AUROC Value for  train_dataset 0.3712342603852038
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 15 :  Loss = 0.45145592491594305   ACC = 96.1283571677712
+ test_dataset: Epoch 16 :  Loss = 0.38632961373153557   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.3933058619157274
+AUROC Value for  val_dataset 0.29770381409725666
+AUROC Value for  train_dataset 0.3710626446475503
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 16 :  Loss = 0.43702928170452643   ACC = 96.1283571677712
+ test_dataset: Epoch 17 :  Loss = 0.3700702570315461   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.4011432957621298
+AUROC Value for  val_dataset 0.2964342882375669
+AUROC Value for  train_dataset 0.37625524653826536
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 17 :  Loss = 0.42135593771186075   ACC = 96.1283571677712
+ test_dataset: Epoch 18 :  Loss = 0.3547923544648687   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.40172908334343316
+AUROC Value for  val_dataset 0.3047414031020589
+AUROC Value for  train_dataset 0.37699564586357037
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 18 :  Loss = 0.4067808244862039   ACC = 96.1283571677712
+ test_dataset: Epoch 19 :  Loss = 0.34050203332144546   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.40277946107542517
+AUROC Value for  val_dataset 0.29684826406137876
+AUROC Value for  train_dataset 0.3762634187162489
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 19 :  Loss = 0.3917382178008868   ACC = 96.1283571677712
+ test_dataset: Epoch 20 :  Loss = 0.3268899319867574   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.40019391588898323
+AUROC Value for  val_dataset 0.29143897996357004
+AUROC Value for  train_dataset 0.376235633311105
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 20 :  Loss = 0.3792966968679744   ACC = 96.1283571677712
+ test_dataset: Epoch 21 :  Loss = 0.3142893632646998   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.39560861309740236
+AUROC Value for  val_dataset 0.28442898934702215
+AUROC Value for  train_dataset 0.37493298814053533
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 21 :  Loss = 0.3675729120842122   ACC = 96.1283571677712
+ test_dataset: Epoch 22 :  Loss = 0.3025643264943412   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.39033652486567283
+AUROC Value for  val_dataset 0.2812827730860518
+AUROC Value for  train_dataset 0.3737251402345742
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 22 :  Loss = 0.3546968925423351   ACC = 96.1283571677712
+ test_dataset: Epoch 23 :  Loss = 0.29162432308237546   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.38730658910031107
+AUROC Value for  val_dataset 0.2761218744825302
+AUROC Value for  train_dataset 0.3723685586893134
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 23 :  Loss = 0.3428737845286119   ACC = 96.1283571677712
+ test_dataset: Epoch 24 :  Loss = 0.2815794688952881   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.38474124348563815
+AUROC Value for  val_dataset 0.2712921565380582
+AUROC Value for  train_dataset 0.3683380405078518
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 24 :  Loss = 0.33113197130445077   ACC = 96.1283571677712
+ test_dataset: Epoch 25 :  Loss = 0.2721432466007157   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.3830646790288046
+AUROC Value for  val_dataset 0.2628470497322956
+AUROC Value for  train_dataset 0.3635475097739249
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 25 :  Loss = 0.319688227187477   ACC = 96.1283571677712
+ test_dataset: Epoch 26 :  Loss = 0.26355284621290037   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.3760352280531653
+AUROC Value for  val_dataset 0.25511950102114034
+AUROC Value for  train_dataset 0.35793649237045466
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 26 :  Loss = 0.30924129783899307   ACC = 96.1283571677712
+ test_dataset: Epoch 27 :  Loss = 0.2556648896030934   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.3649254635801721
+AUROC Value for  val_dataset 0.2502621846884142
+AUROC Value for  train_dataset 0.3521653002785078
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 27 :  Loss = 0.2998251849074043   ACC = 96.1283571677712
+ test_dataset: Epoch 28 :  Loss = 0.2485216401369646   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.33941340443582596
+AUROC Value for  val_dataset 0.23958160843406737
+AUROC Value for  train_dataset 0.34420396448698337
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 28 :  Loss = 0.2892526667480648   ACC = 96.1283571677712
+ test_dataset: Epoch 29 :  Loss = 0.24201919176423178   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.31378014786086533
+AUROC Value for  val_dataset 0.2312744935695755
+AUROC Value for  train_dataset 0.33790975300409265
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 29 :  Loss = 0.2819873638526463   ACC = 96.1283571677712
+ test_dataset: Epoch 30 :  Loss = 0.23621609785908004   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.29305538722579083
+AUROC Value for  val_dataset 0.22321576419937075
+AUROC Value for  train_dataset 0.3329786608088495
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 30 :  Loss = 0.27276480851748863   ACC = 96.1283571677712
+ test_dataset: Epoch 31 :  Loss = 0.23111773723414533   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.2729568133155577
+AUROC Value for  val_dataset 0.21993155599712974
+AUROC Value for  train_dataset 0.3293044495874684
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 31 :  Loss = 0.2669647069947413   ACC = 96.1283571677712
+ test_dataset: Epoch 32 :  Loss = 0.22655176793465195   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.2568981537591403
+AUROC Value for  val_dataset 0.2177512833250538
+AUROC Value for  train_dataset 0.32763569084323796
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 32 :  Loss = 0.2581811516198457   ACC = 96.1283571677712
+ test_dataset: Epoch 33 :  Loss = 0.22257748208201303   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.24453601583646425
+AUROC Value for  val_dataset 0.21791687365457857
+AUROC Value for  train_dataset 0.32676290223460036
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 33 :  Loss = 0.24975244600077642   ACC = 96.1283571677712
+ test_dataset: Epoch 34 :  Loss = 0.21911613134503702   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.23518361410738092
+AUROC Value for  val_dataset 0.21830325109013635
+AUROC Value for  train_dataset 0.32558120529818646
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 34 :  Loss = 0.2448823530269825   ACC = 96.1283571677712
+ test_dataset: Epoch 35 :  Loss = 0.21616288061351344   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.22991152587565145
+AUROC Value for  val_dataset 0.2180824639841033
+AUROC Value for  train_dataset 0.32471658886753224
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 35 :  Loss = 0.23899165924767146   ACC = 96.1283571677712
+ test_dataset: Epoch 36 :  Loss = 0.2136594783145375   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.22463943764392197
+AUROC Value for  val_dataset 0.21661974940663462
+AUROC Value for  train_dataset 0.3239794584134207
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 36 :  Loss = 0.2318762118210558   ACC = 96.1283571677712
+ test_dataset: Epoch 37 :  Loss = 0.2116003672858811   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.2215893023067911
+AUROC Value for  val_dataset 0.21697852845393828
+AUROC Value for  train_dataset 0.32379313275539695
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 37 :  Loss = 0.22708435423664403   ACC = 96.1283571677712
+ test_dataset: Epoch 38 :  Loss = 0.20993721852390354   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21823617339312404
+AUROC Value for  val_dataset 0.2170889220069548
+AUROC Value for  train_dataset 0.32355450515827877
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 38 :  Loss = 0.22408316415654353   ACC = 96.1283571677712
+ test_dataset: Epoch 39 :  Loss = 0.20864427410509365   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21718579566113197
+AUROC Value for  val_dataset 0.2180824639841033
+AUROC Value for  train_dataset 0.32381111154696063
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 39 :  Loss = 0.21852693998589098   ACC = 96.1283571677712
+ test_dataset: Epoch 40 :  Loss = 0.20767406397433186   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21516583848422413
+AUROC Value for  val_dataset 0.21841364464315283
+AUROC Value for  train_dataset 0.32388302671321534
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 40 :  Loss = 0.21654600962180479   ACC = 96.1283571677712
+ test_dataset: Epoch 41 :  Loss = 0.20700715530779815   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.2141760594675393
+AUROC Value for  val_dataset 0.21874482530220235
+AUROC Value for  train_dataset 0.3241429019730907
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 41 :  Loss = 0.2122242476649512   ACC = 96.1283571677712
+ test_dataset: Epoch 42 :  Loss = 0.2065909892827188   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21302468387670181
+AUROC Value for  val_dataset 0.21907600596125187
+AUROC Value for  train_dataset 0.32460381281135997
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 42 :  Loss = 0.20832713286677926   ACC = 96.1283571677712
+ test_dataset: Epoch 43 :  Loss = 0.2063971510310011   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21225710014947685
+AUROC Value for  val_dataset 0.21946238339680962
+AUROC Value for  train_dataset 0.3251922096261719
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 43 :  Loss = 0.2044035342327385   ACC = 96.1283571677712
+ test_dataset: Epoch 44 :  Loss = 0.2064063636739092   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.2118935078576334
+AUROC Value for  val_dataset 0.2201799414914169
+AUROC Value for  train_dataset 0.32576426208501685
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 44 :  Loss = 0.2005188048021029   ACC = 96.1283571677712
+ test_dataset: Epoch 45 :  Loss = 0.2065971032966973   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21148951642225186
+AUROC Value for  val_dataset 0.22089749958602417
+AUROC Value for  train_dataset 0.32621700074530263
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 45 :  Loss = 0.19734197519238833   ACC = 96.1283571677712
+ test_dataset: Epoch 46 :  Loss = 0.20694109087245321   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21112592413040843
+AUROC Value for  val_dataset 0.2217806480101562
+AUROC Value for  train_dataset 0.3267743432837773
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 46 :  Loss = 0.19828577093548752   ACC = 96.1283571677712
+ test_dataset: Epoch 47 :  Loss = 0.20740953218666758   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21070173312325777
+AUROC Value for  val_dataset 0.2222222222222222
+AUROC Value for  train_dataset 0.3273431268714288
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 47 :  Loss = 0.19533883438507024   ACC = 96.1283571677712
+ test_dataset: Epoch 48 :  Loss = 0.2079869389280719   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21082293055387227
+AUROC Value for  val_dataset 0.2227189932107965
+AUROC Value for  train_dataset 0.32813092482903805
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 48 :  Loss = 0.1957969468023289   ACC = 96.1283571677712
+ test_dataset: Epoch 49 :  Loss = 0.20864818373921912   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21051993697733606
+AUROC Value for  val_dataset 0.22415410940001101
+AUROC Value for  train_dataset 0.32898246577491863
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 49 :  Loss = 0.1921675730045764   ACC = 96.1283571677712
+ test_dataset: Epoch 50 :  Loss = 0.2093586651951328   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21064113440795054
+AUROC Value for  val_dataset 0.22525804493017604
+AUROC Value for  train_dataset 0.3298993841446672
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 50 :  Loss = 0.1893297624418575   ACC = 96.1283571677712
+ test_dataset: Epoch 51 :  Loss = 0.21017950051398182   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21096432755625583
+AUROC Value for  val_dataset 0.22718993210796484
+AUROC Value for  train_dataset 0.33086370114672004
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 51 :  Loss = 0.18974580694760518   ACC = 96.1283571677712
+ test_dataset: Epoch 52 :  Loss = 0.21102873610580608   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21108552498687025
+AUROC Value for  val_dataset 0.22862504829717945
+AUROC Value for  train_dataset 0.33158121837367116
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 52 :  Loss = 0.1857871390621879   ACC = 96.1283571677712
+ test_dataset: Epoch 53 :  Loss = 0.21195330268178378   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21159051428109726
+AUROC Value for  val_dataset 0.22895622895622897
+AUROC Value for  train_dataset 0.3323167143921861
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 53 :  Loss = 0.1876305631453832   ACC = 96.1283571677712
+ test_dataset: Epoch 54 :  Loss = 0.2128222357196781   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.2121359027188624
+AUROC Value for  val_dataset 0.22937020478004083
+AUROC Value for  train_dataset 0.3334755292302462
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 54 :  Loss = 0.18755889255949793   ACC = 96.1283571677712
+ test_dataset: Epoch 55 :  Loss = 0.2137264611341967   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21292368601785644
+AUROC Value for  val_dataset 0.22961859027432796
+AUROC Value for  train_dataset 0.334467631637443
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 55 :  Loss = 0.18678546433389331   ACC = 96.1283571677712
+ test_dataset: Epoch 56 :  Loss = 0.21466326955758647   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21431745646992287
+AUROC Value for  val_dataset 0.2295633934978197
+AUROC Value for  train_dataset 0.3356803828501942
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 56 :  Loss = 0.18511957616746988   ACC = 96.1283571677712
+ test_dataset: Epoch 57 :  Loss = 0.21557340099246744   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21538803377368398
+AUROC Value for  val_dataset 0.22912181928575373
+AUROC Value for  train_dataset 0.33694543600203974
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 57 :  Loss = 0.1848682470861361   ACC = 96.1283571677712
+ test_dataset: Epoch 58 :  Loss = 0.2165356994456171   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21609501878560178
+AUROC Value for  val_dataset 0.22994977093337748
+AUROC Value for  train_dataset 0.3377626538003896
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 58 :  Loss = 0.18142909379653246   ACC = 96.1283571677712
+ test_dataset: Epoch 59 :  Loss = 0.2175668131232937   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.2167818042257504
+AUROC Value for  val_dataset 0.23044654192195174
+AUROC Value for  train_dataset 0.3390963532472967
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Epoch 59 :  Loss = 0.17897144398665984   ACC = 96.1283571677712
+ test_dataset: Epoch 60 :  Loss = 0.21854010094537613   ACC = 94.75920796394348 Balanced ACC = 50.0
+ Class wise = [100.   0.]
+AUROC Value for  test_dataset 0.21758978709651355
+AUROC Value for  val_dataset 0.230280951592427
+AUROC Value for  train_dataset 0.3407847252186875
+ly tensor([0., 0.], device='cuda:0', requires_grad=True)
+ dy tensor([1., 1.], device='cuda:0', requires_grad=True)
+lr:  0.0001
+Traceback (most recent call last):
+  File "loss_search.py", line 275, in <module>
+    train_epoch(i, model, args,
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/core/trainer.py", line 187, in train_epoch
+    loss.backward()
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/torch/_tensor.py", line 396, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/torch/autograd/__init__.py", line 173, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

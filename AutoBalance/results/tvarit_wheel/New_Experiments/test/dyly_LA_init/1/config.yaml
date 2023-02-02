@@ -1,0 +1,46 @@
+balance_val: false
+checkpoint: 0
+checkpoint_interval: 10
+datapath: ~/data/
+dataset: tvarit
+device: cuda
+epoch: 300
+eval_interval: 1
+group_size: 1
+low_batch_size: 128
+low_lr: 0.1
+low_lr_schedule:
+- 100
+- 150
+low_lr_warmup: 5
+model_file: null
+model_type: encoder
+num_classes: 2
+save_path: results/tvarit_wheel/New_Experiments/test/dyly_LA_init/1/
+train_rho: 0.03
+train_size: 2867
+up_configs:
+  aug: false
+  dy: true
+  dy_CDT_gamma: null
+  dy_init: Ones
+  end_epoch: 300
+  epoch_interval: 1
+  iter_interval: 25
+  ly: true
+  ly_LA_tau: null
+  ly_init: Zeros
+  start_epoch: 150
+  train_batches: 10
+  val_batches: 10
+  wy: false
+  wy_init: Ones
+up_lr: 0.001
+up_lr_schedule:
+- 150
+- 200
+up_lr_warmup: 10
+up_train_batch_size: 128
+up_val_batch_size: 128
+val_size: 698
+wandb: !!python/module:wandb ''

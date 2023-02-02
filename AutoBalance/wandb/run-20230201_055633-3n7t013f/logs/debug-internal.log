@@ -1,0 +1,167 @@
+2023-02-01 05:56:33,701 INFO    StreamThr :3892 [internal.py:wandb_internal():87] W&B internal server running at pid: 3892, started at: 2023-02-01 05:56:33.700151
+2023-02-01 05:56:33,704 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: status
+2023-02-01 05:56:33,704 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: status
+2023-02-01 05:56:33,706 INFO    WriterThread:3892 [datastore.py:open_for_write():75] open: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/run-3n7t013f.wandb
+2023-02-01 05:56:33,707 DEBUG   SenderThread:3892 [sender.py:send():303] send: header
+2023-02-01 05:56:33,707 DEBUG   SenderThread:3892 [sender.py:send():303] send: run
+2023-02-01 05:56:34,034 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: check_version
+2023-02-01 05:56:34,044 INFO    SenderThread:3892 [dir_watcher.py:__init__():216] watching files in: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files
+2023-02-01 05:56:34,045 INFO    SenderThread:3892 [sender.py:_start_run_threads():928] run started: 3n7t013f with start time 1675230993.698467
+2023-02-01 05:56:34,045 DEBUG   SenderThread:3892 [sender.py:send():303] send: summary
+2023-02-01 05:56:34,045 INFO    SenderThread:3892 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-02-01 05:56:34,045 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: check_version
+2023-02-01 05:56:34,111 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: run_start
+2023-02-01 05:56:34,116 DEBUG   HandlerThread:3892 [system_info.py:__init__():31] System info init
+2023-02-01 05:56:34,116 DEBUG   HandlerThread:3892 [system_info.py:__init__():46] System info init done
+2023-02-01 05:56:34,116 INFO    HandlerThread:3892 [system_monitor.py:start():150] Starting system monitor
+2023-02-01 05:56:34,116 INFO    SystemMonitor:3892 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2023-02-01 05:56:34,116 INFO    HandlerThread:3892 [system_monitor.py:probe():171] Collecting system info
+2023-02-01 05:56:34,117 INFO    SystemMonitor:3892 [interfaces.py:start():168] Started cpu
+2023-02-01 05:56:34,120 INFO    SystemMonitor:3892 [interfaces.py:start():168] Started disk
+2023-02-01 05:56:34,120 INFO    SystemMonitor:3892 [interfaces.py:start():168] Started gpu
+2023-02-01 05:56:34,121 INFO    SystemMonitor:3892 [interfaces.py:start():168] Started memory
+2023-02-01 05:56:34,121 INFO    SystemMonitor:3892 [interfaces.py:start():168] Started network
+2023-02-01 05:56:34,125 DEBUG   HandlerThread:3892 [system_info.py:probe():195] Probing system
+2023-02-01 05:56:34,132 DEBUG   HandlerThread:3892 [git.py:repo():40] git repository is invalid
+2023-02-01 05:56:34,133 DEBUG   HandlerThread:3892 [system_info.py:probe():241] Probing system done
+2023-02-01 05:56:34,133 DEBUG   HandlerThread:3892 [system_monitor.py:probe():180] {'os': 'Linux-5.4.0-105-generic-x86_64-with-glibc2.17', 'python': '3.8.15', 'heartbeatAt': '2023-02-01T05:56:34.125736', 'startedAt': '2023-02-01T05:56:33.689313', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'loss_search.py', 'codePath': 'loss_search.py', 'host': 'psj18732g', 'username': 'root', 'executable': '/root/miniconda3/envs/class_imbalance/bin/python', 'cpu_count': 8, 'cpu_count_logical': 8, 'cpu_freq': {'current': 2600.1120000000005, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2600.112, 'min': 0.0, 'max': 0.0}, {'current': 2600.112, 'min': 0.0, 'max': 0.0}, {'current': 2600.112, 'min': 0.0, 'max': 0.0}, {'current': 2600.112, 'min': 0.0, 'max': 0.0}, {'current': 2600.112, 'min': 0.0, 'max': 0.0}, {'current': 2600.112, 'min': 0.0, 'max': 0.0}, {'current': 2600.112, 'min': 0.0, 'max': 0.0}, {'current': 2600.112, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 492.086181640625, 'used': 133.96428680419922}, 'gpu': 'NVIDIA Quadro P4000', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA Quadro P4000', 'memory_total': 8513978368}], 'memory': {'total': 29.38159942626953}}
+2023-02-01 05:56:34,133 INFO    HandlerThread:3892 [system_monitor.py:probe():181] Finished collecting system info
+2023-02-01 05:56:34,133 INFO    HandlerThread:3892 [system_monitor.py:probe():184] Publishing system info
+2023-02-01 05:56:34,133 DEBUG   HandlerThread:3892 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-02-01 05:56:34,134 DEBUG   HandlerThread:3892 [system_info.py:_save_pip():67] Saving pip packages done
+2023-02-01 05:56:34,134 DEBUG   HandlerThread:3892 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2023-02-01 05:56:35,047 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_created():275] file/dir created: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/requirements.txt
+2023-02-01 05:56:35,048 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_created():275] file/dir created: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/conda-environment.yaml
+2023-02-01 05:56:35,048 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_created():275] file/dir created: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/wandb-summary.json
+2023-02-01 05:56:39,413 DEBUG   HandlerThread:3892 [system_info.py:_save_conda():86] Saving conda packages done
+2023-02-01 05:56:39,414 INFO    HandlerThread:3892 [system_monitor.py:probe():186] Finished publishing system info
+2023-02-01 05:56:39,419 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: stop_status
+2023-02-01 05:56:39,420 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: stop_status
+2023-02-01 05:56:39,555 DEBUG   SenderThread:3892 [sender.py:send():303] send: telemetry
+2023-02-01 05:56:39,558 DEBUG   SenderThread:3892 [sender.py:send():303] send: files
+2023-02-01 05:56:39,559 INFO    SenderThread:3892 [sender.py:_save_file():1171] saving file wandb-metadata.json with policy now
+2023-02-01 05:56:40,050 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/conda-environment.yaml
+2023-02-01 05:56:40,050 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_created():275] file/dir created: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/wandb-metadata.json
+2023-02-01 05:56:40,050 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_created():275] file/dir created: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/output.log
+2023-02-01 05:56:40,382 INFO    Thread-16 :3892 [upload_job.py:push():143] Uploaded file /tmp/tmp1rding50wandb/1bffwf32-wandb-metadata.json
+2023-02-01 05:56:42,051 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/output.log
+2023-02-01 05:56:43,108 DEBUG   SenderThread:3892 [sender.py:send():303] send: exit
+2023-02-01 05:56:43,108 INFO    SenderThread:3892 [sender.py:send_exit():442] handling exit code: 255
+2023-02-01 05:56:43,109 INFO    SenderThread:3892 [sender.py:send_exit():444] handling runtime: 8
+2023-02-01 05:56:43,109 INFO    SenderThread:3892 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-02-01 05:56:43,109 INFO    SenderThread:3892 [sender.py:send_exit():450] send defer
+2023-02-01 05:56:43,110 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:43,110 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 0
+2023-02-01 05:56:43,111 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:43,111 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 0
+2023-02-01 05:56:43,111 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 1
+2023-02-01 05:56:43,111 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:43,111 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 1
+2023-02-01 05:56:43,111 INFO    HandlerThread:3892 [system_monitor.py:finish():160] Stopping system monitor
+2023-02-01 05:56:43,112 INFO    HandlerThread:3892 [interfaces.py:finish():175] Joined cpu
+2023-02-01 05:56:43,112 DEBUG   SystemMonitor:3892 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2023-02-01 05:56:43,113 INFO    HandlerThread:3892 [interfaces.py:finish():175] Joined disk
+2023-02-01 05:56:43,113 DEBUG   SystemMonitor:3892 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2023-02-01 05:56:43,113 DEBUG   SystemMonitor:3892 [system_monitor.py:_start():141] Publishing last batch of metrics
+2023-02-01 05:56:43,163 INFO    HandlerThread:3892 [interfaces.py:finish():175] Joined gpu
+2023-02-01 05:56:43,163 INFO    HandlerThread:3892 [interfaces.py:finish():175] Joined memory
+2023-02-01 05:56:43,164 INFO    HandlerThread:3892 [interfaces.py:finish():175] Joined network
+2023-02-01 05:56:43,164 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:43,164 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 1
+2023-02-01 05:56:43,165 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 2
+2023-02-01 05:56:43,165 DEBUG   SenderThread:3892 [sender.py:send():303] send: stats
+2023-02-01 05:56:43,165 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:43,165 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 2
+2023-02-01 05:56:43,166 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:43,166 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 2
+2023-02-01 05:56:43,166 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 3
+2023-02-01 05:56:43,166 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:43,166 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 3
+2023-02-01 05:56:43,166 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:43,166 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 3
+2023-02-01 05:56:43,166 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 4
+2023-02-01 05:56:43,167 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:43,167 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 4
+2023-02-01 05:56:43,167 DEBUG   SenderThread:3892 [sender.py:send():303] send: summary
+2023-02-01 05:56:43,167 INFO    SenderThread:3892 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2023-02-01 05:56:43,167 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:43,167 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 4
+2023-02-01 05:56:43,168 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 5
+2023-02-01 05:56:43,168 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:43,168 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 5
+2023-02-01 05:56:43,168 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:43,168 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 5
+2023-02-01 05:56:43,342 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 6
+2023-02-01 05:56:43,343 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:43,343 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 6
+2023-02-01 05:56:43,343 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:43,343 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 6
+2023-02-01 05:56:44,052 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/config.yaml
+2023-02-01 05:56:44,052 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/wandb-summary.json
+2023-02-01 05:56:44,053 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/output.log
+2023-02-01 05:56:44,109 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: poll_exit
+2023-02-01 05:56:45,109 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 7
+2023-02-01 05:56:45,110 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: poll_exit
+2023-02-01 05:56:45,111 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:45,111 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 7
+2023-02-01 05:56:45,111 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:45,111 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 7
+2023-02-01 05:56:45,111 INFO    SenderThread:3892 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-02-01 05:56:46,053 INFO    Thread-13 :3892 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/output.log
+2023-02-01 05:56:46,054 INFO    SenderThread:3892 [dir_watcher.py:finish():392] scan: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files
+2023-02-01 05:56:46,054 INFO    SenderThread:3892 [dir_watcher.py:finish():406] scan save: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/config.yaml config.yaml
+2023-02-01 05:56:46,054 INFO    SenderThread:3892 [dir_watcher.py:finish():406] scan save: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/conda-environment.yaml conda-environment.yaml
+2023-02-01 05:56:46,054 INFO    SenderThread:3892 [dir_watcher.py:finish():406] scan save: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/requirements.txt requirements.txt
+2023-02-01 05:56:46,054 INFO    SenderThread:3892 [dir_watcher.py:finish():406] scan save: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/output.log output.log
+2023-02-01 05:56:46,055 INFO    SenderThread:3892 [dir_watcher.py:finish():406] scan save: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/wandb-summary.json wandb-summary.json
+2023-02-01 05:56:46,055 INFO    SenderThread:3892 [dir_watcher.py:finish():406] scan save: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/wandb-metadata.json wandb-metadata.json
+2023-02-01 05:56:46,055 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 8
+2023-02-01 05:56:46,059 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:46,059 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 8
+2023-02-01 05:56:46,060 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:46,060 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 8
+2023-02-01 05:56:46,060 INFO    SenderThread:3892 [file_pusher.py:finish():168] shutting down file pusher
+2023-02-01 05:56:46,517 INFO    Thread-19 :3892 [upload_job.py:push():143] Uploaded file /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/requirements.txt
+2023-02-01 05:56:46,536 INFO    Thread-21 :3892 [upload_job.py:push():143] Uploaded file /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/wandb-summary.json
+2023-02-01 05:56:46,539 INFO    Thread-20 :3892 [upload_job.py:push():143] Uploaded file /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/output.log
+2023-02-01 05:56:46,685 INFO    Thread-17 :3892 [upload_job.py:push():143] Uploaded file /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/config.yaml
+2023-02-01 05:56:46,779 INFO    Thread-18 :3892 [upload_job.py:push():143] Uploaded file /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/files/conda-environment.yaml
+2023-02-01 05:56:46,979 INFO    Thread-12 :3892 [sender.py:transition_state():463] send defer: 9
+2023-02-01 05:56:46,980 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:46,980 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 9
+2023-02-01 05:56:46,981 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:46,981 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 9
+2023-02-01 05:56:46,981 INFO    SenderThread:3892 [file_pusher.py:join():173] waiting for file pusher
+2023-02-01 05:56:46,981 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 10
+2023-02-01 05:56:46,981 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:46,981 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 10
+2023-02-01 05:56:46,981 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:46,981 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 10
+2023-02-01 05:56:47,138 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 11
+2023-02-01 05:56:47,139 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:47,139 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 11
+2023-02-01 05:56:47,139 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:47,139 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 11
+2023-02-01 05:56:47,139 INFO    SenderThread:3892 [sender.py:transition_state():463] send defer: 12
+2023-02-01 05:56:47,140 DEBUG   SenderThread:3892 [sender.py:send():303] send: final
+2023-02-01 05:56:47,141 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: defer
+2023-02-01 05:56:47,141 INFO    HandlerThread:3892 [handler.py:handle_request_defer():162] handle defer: 12
+2023-02-01 05:56:47,141 DEBUG   SenderThread:3892 [sender.py:send():303] send: footer
+2023-02-01 05:56:47,141 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: defer
+2023-02-01 05:56:47,142 INFO    SenderThread:3892 [sender.py:send_request_defer():459] handle sender defer: 12
+2023-02-01 05:56:47,143 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: poll_exit
+2023-02-01 05:56:47,143 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: poll_exit
+2023-02-01 05:56:47,144 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: server_info
+2023-02-01 05:56:47,144 DEBUG   SenderThread:3892 [sender.py:send_request():317] send_request: server_info
+2023-02-01 05:56:47,147 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: get_summary
+2023-02-01 05:56:47,148 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: sampled_history
+2023-02-01 05:56:47,414 INFO    MainThread:3892 [wandb_run.py:_footer_history_summary_info():3408] rendering history
+2023-02-01 05:56:47,414 INFO    MainThread:3892 [wandb_run.py:_footer_history_summary_info():3440] rendering summary
+2023-02-01 05:56:47,414 INFO    MainThread:3892 [wandb_run.py:_footer_sync_info():3364] logging synced files
+2023-02-01 05:56:47,415 DEBUG   HandlerThread:3892 [handler.py:handle_request():139] handle_request: shutdown
+2023-02-01 05:56:47,415 INFO    HandlerThread:3892 [handler.py:finish():814] shutting down handler
+2023-02-01 05:56:48,141 INFO    WriterThread:3892 [datastore.py:close():279] close: /home/paperspace/Documents/repos/class_imbalance/AutoBalance/wandb/run-20230201_055633-3n7t013f/run-3n7t013f.wandb
+2023-02-01 05:56:48,413 INFO    SenderThread:3892 [sender.py:finish():1331] shutting down sender
+2023-02-01 05:56:48,414 INFO    SenderThread:3892 [file_pusher.py:finish():168] shutting down file pusher
+2023-02-01 05:56:48,414 INFO    SenderThread:3892 [file_pusher.py:join():173] waiting for file pusher
+2023-02-01 05:56:48,418 INFO    MainThread:3892 [internal.py:handle_exit():77] Internal process exited

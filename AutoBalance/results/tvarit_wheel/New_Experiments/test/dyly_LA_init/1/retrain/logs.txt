@@ -1,0 +1,1104 @@
+ test_dataset: Epoch 0 :  Loss = 0.7464098184034439   ACC = 5.240793153643608 Balanced ACC = 50.0 
+ Class wise = [  0. 100.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 10 :  Loss = 0.5067981696838022   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 20 :  Loss = 0.33610401393333844   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 30 :  Loss = 0.24583199122134416   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 40 :  Loss = 0.21160080568817452   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 50 :  Loss = 0.20735087013531678   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 60 :  Loss = 0.21277794626042795   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 70 :  Loss = 0.21905202269765203   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 80 :  Loss = 0.22388191068961835   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 90 :  Loss = 0.22703207956980545   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 100 :  Loss = 0.2289645257630193   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 110 :  Loss = 0.23021533096963726   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 120 :  Loss = 0.23151161230404046   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 130 :  Loss = 0.23198711000404007   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 140 :  Loss = 0.2317709719640844   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 150 :  Loss = 0.231889997543002   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 160 :  Loss = 0.23214488253841656   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 170 :  Loss = 0.2321448756260507   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 180 :  Loss = 0.23215121649226791   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 190 :  Loss = 0.23215263399160954   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 200 :  Loss = 0.23215495524321164   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 210 :  Loss = 0.2321539455365189   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 220 :  Loss = 0.23215623500706792   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 230 :  Loss = 0.23215825756003938   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 240 :  Loss = 0.2321613421637259   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 250 :  Loss = 0.23216201805591413   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 260 :  Loss = 0.23216171023929255   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 270 :  Loss = 0.23216133213288048   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 280 :  Loss = 0.23215861243351493   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 290 :  Loss = 0.23215999671128756   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 300 :  Loss = 0.2321591169359664   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 310 :  Loss = 0.23216018094430566   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 320 :  Loss = 0.2321595927019717   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 330 :  Loss = 0.2321654981999492   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 340 :  Loss = 0.2321650325386619   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 350 :  Loss = 0.2321706547826613   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 360 :  Loss = 0.23216934253596214   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 370 :  Loss = 0.2321692810370125   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 380 :  Loss = 0.23216880131882242   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 390 :  Loss = 0.23217066721964322   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 400 :  Loss = 0.23216965210969656   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 410 :  Loss = 0.23216722579541016   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 420 :  Loss = 0.23216577491092447   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 430 :  Loss = 0.23216510135627672   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 440 :  Loss = 0.23216880498079334   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 450 :  Loss = 0.23216919284894344   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 460 :  Loss = 0.23216880216308086   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 470 :  Loss = 0.23216802505486073   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 480 :  Loss = 0.23217027024405537   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 490 :  Loss = 0.23217076832486616   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+
+ test_dataset: Epoch 500 :  Loss = 0.2321732186741346   ACC = 94.75920796394348 Balanced ACC = 50.0 
+ Class wise = [100.   0.]
+tensor([1.0311, 1.0273], device='cuda:0')tensor([ 0.0759, -0.0759], device='cuda:0')
+

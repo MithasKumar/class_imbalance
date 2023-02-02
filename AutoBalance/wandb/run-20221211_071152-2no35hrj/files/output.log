@@ -1,0 +1,15 @@
+<__main__.YAML object at 0x7f5f2c40a400>
+Penalty used for optimal threshold selection = 0.1
+Using Random Seed ==> 2628390008
+Traceback (most recent call last):
+  File "loss_search.py", line 94, in <module>
+    global_configs, Encoder_src, model = get_models(tvarit_args, model_type = args['model_type'])
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/wheel_exp_main.py", line 250, in get_models
+    global_configs = get_tvarit_raw(args)
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/raw_tvarit.py", line 304, in get_tvarit_raw
+    global_configs = data_processing.get_raw_data_df(configs=global_configs)  # Adding Raw Data's Dataframes
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/train_utils/data_processing.py", line 84, in get_raw_data_df
+    configs = get_raw_data_configs(configs=configs)
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/train_utils/data_processing.py", line 59, in get_raw_data_configs
+    src_configs = json.load(open(configs['Source_configs_path']))
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ece/Lakshya/Projects/prj_imb/Final_DIR_SITARAM/Final_DIR_SITARAM/Datasets/BP09_2019_configs.json'

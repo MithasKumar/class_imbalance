@@ -1,0 +1,1 @@
+{"Train Loss": 0.016040857133119046, "_timestamp": 1673287423.07285, "_runtime": 21.075040102005005, "_step": 29, "Meta Train Loss": 0.15550567417585548, "Train AUC": 0.7757517700957934, "Meta Train AUC": 0.6891999999999999, "Validation Loss": 0.0179839786761653, "Val AUC": 0.7504574578787986, "_wandb": {"runtime": 20}}

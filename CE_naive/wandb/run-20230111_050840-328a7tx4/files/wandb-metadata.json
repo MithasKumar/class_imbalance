@@ -1,0 +1,79 @@
+{
+    "os": "Linux-5.4.0-105-generic-x86_64-with-glibc2.17",
+    "python": "3.8.15",
+    "heartbeatAt": "2023-01-11T05:08:40.757432",
+    "startedAt": "2023-01-11T05:08:40.365842",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "ce_naive.py",
+    "codePath": "ce_naive.py",
+    "host": "psj18732g",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/class_imbalance/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2600.1840000000007,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2600.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2600.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2600.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2600.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2600.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2600.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2600.184,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 492.086181640625,
+        "used": 133.5713348388672
+    },
+    "gpu": "NVIDIA Quadro P4000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA Quadro P4000",
+            "memory_total": 8513978368
+        }
+    ],
+    "memory": {
+        "total": 29.38159942626953
+    }
+}

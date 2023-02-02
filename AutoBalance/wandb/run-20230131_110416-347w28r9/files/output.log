@@ -1,0 +1,24 @@
+<__main__.YAML object at 0x7ff88388d880>
+Penalty used for optimal threshold selection = 0.1
+Using Random Seed ==> 676862763
+No. of Features (Source Data) = 22
+No. of Set-point Parameters (Source Data) = 59
+No. of Features (Target Data) = 16
+No. of Set-point Parameters (Target Data) = 150
+Making Source Train Loader -->
+Traceback (most recent call last):
+  File "loss_search.py", line 94, in <module>
+    global_configs, Encoder_src, model = get_models(tvarit_args, model_type = args['model_type'])
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/wheel_exp_main.py", line 250, in get_models
+    global_configs = get_tvarit_raw(args)
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/raw_tvarit.py", line 306, in get_tvarit_raw
+    global_configs = data_processing.get_raw_data_to_loaders(configs=global_configs)
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/train_utils/data_processing.py", line 352, in get_raw_data_to_loaders
+    configs['Source_Train_Loader'],configs['Source_Train_Negatives'],configs['Source_Train_Positives'] = get_raw_df_to_loader(data=configs['Source_train_df'],configs=configs['Source_configs'],is_lbls=True,to_shfl=True,tseq_len=configs['adap_len'],blen=configs['batch_size'],norm_dict=norm_dict,ps_lbls_dict=psl_dict_sr,want_sampler=configs['use_loader_sampler'])
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/train_utils/data_processing.py", line 226, in get_raw_df_to_loader
+    btch = torch.squeeze(nn.AdaptiveAvgPool1d(tseq_len)(btch),dim=0)
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/torch/nn/modules/pooling.py", line 1140, in forward
+    return F.adaptive_avg_pool1d(input, self.output_size)
+KeyboardInterrupt

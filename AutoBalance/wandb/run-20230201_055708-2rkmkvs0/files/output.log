@@ -1,0 +1,27 @@
+<__main__.YAML object at 0x7f46ee898940>
+Penalty used for optimal threshold selection = 0.1
+Using Random Seed ==> 86888211
+No. of Features (Source Data) = 22
+No. of Set-point Parameters (Source Data) = 59
+No. of Features (Target Data) = 16
+No. of Set-point Parameters (Target Data) = 150
+Traceback (most recent call last):
+  File "loss_search.py", line 94, in <module>
+    global_configs, Encoder_src, model = get_models(tvarit_args, model_type = args['model_type'])
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/wheel_exp_main.py", line 250, in get_models
+    global_configs = get_tvarit_raw(args)
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/raw_tvarit.py", line 304, in get_tvarit_raw
+    global_configs = data_processing.get_raw_data_df(configs=global_configs)  # Adding Raw Data's Dataframes
+  File "/home/paperspace/Documents/repos/class_imbalance/AutoBalance/dataset/train_utils/data_processing.py", line 87, in get_raw_data_df
+    src_eval_df_sr = pd.read_feather(configs['Source_eval_data_path'])
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/pandas/io/feather_format.py", line 132, in read_feather
+    return feather.read_feather(
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/pyarrow/feather.py", line 230, in read_feather
+    return (read_table(
+  File "pyarrow/array.pxi", line 822, in pyarrow.lib._PandasConvertible.to_pandas
+  File "pyarrow/table.pxi", line 3889, in pyarrow.lib.Table._to_pandas
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/pyarrow/pandas_compat.py", line 803, in table_to_blockmanager
+    blocks = _table_to_blocks(options, table, categories, ext_columns_dtypes)
+  File "/root/miniconda3/envs/class_imbalance/lib/python3.8/site-packages/pyarrow/pandas_compat.py", line 1153, in _table_to_blocks
+    result = pa.lib.table_to_blocks(options, block_table, categories,
+KeyboardInterrupt
